@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/galinurislam0-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=600&lines=Сәлем!+Мен+—+Нұрислам+👋;Building+AI+products+in+Kazakh+🤖;3D+games+%7C+Web+apps+%7C+AI;Қазақ+тілін+цифрлық+әлемге+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=600&lines=%D0%A1%D3%99%D0%BB%D0%B5%D0%BC%21+%D0%9C%D0%B5%D0%BD+%E2%80%94+%D0%9D%D2%B1%D1%80%D0%B8%D1%81%D0%BB%D0%B0%D0%BC+%F0%9F%91%8B;Building+AI+products+in+Kazakh+%F0%9F%A4%96;3D+games+%7C+Web+apps+%7C+AI;%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B+%D1%82%D1%96%D0%BB%D1%96%D0%BD+%D1%86%D0%B8%D1%84%D1%80%D0%BB%D1%8B%D2%9B+%D3%99%D0%BB%D0%B5%D0%BC%D0%B3%D0%B5+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
